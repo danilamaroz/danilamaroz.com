@@ -15,4 +15,4 @@ Beyond research, I enjoy:
 
 ## About This Site
 
-This website is built with [Quarto](https://quarto.org) and hosted on GitHub Pages. The source code is available on [GitHub](https://github.com/yourusername/danilamaroz.com).
+This website is built with [Quarto](https://quarto.org) and hosted on GitHub Pages. The source code is available on [GitHub](https://github.com/danilamaroz/danilamaroz.com).
