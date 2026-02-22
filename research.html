@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Curriculum Vitae – Danila Maroz</title>
+<title>Research – Danila Maroz</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -95,11 +95,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./cv.html" aria-current="page"> 
+    <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
@@ -122,10 +122,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
-  <li><a href="#work-experience" id="toc-work-experience" class="nav-link" data-scroll-target="#work-experience">Work Experience</a></li>
-  <li><a href="#technical-skills" id="toc-technical-skills" class="nav-link" data-scroll-target="#technical-skills">Technical Skills</a></li>
-  <li><a href="#languages" id="toc-languages" class="nav-link" data-scroll-target="#languages">Languages</a></li>
+  <li><a href="#working-papers" id="toc-working-papers" class="nav-link active" data-scroll-target="#working-papers">Working Papers</a></li>
+  <li><a href="#presentations" id="toc-presentations" class="nav-link" data-scroll-target="#presentations">Presentations</a></li>
+  <li><a href="#research-interests" id="toc-research-interests" class="nav-link" data-scroll-target="#research-interests">Research Interests</a></li>
   </ul>
 </nav>
     </div>
@@ -134,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Curriculum Vitae</h1>
+<h1 class="title">Research</h1>
 </div>
 
 
@@ -151,50 +150,26 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><a href="./path/to/cv.pdf" class="btn btn-primary">Download CV (PDF)</a></p>
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<dl>
-<dt><strong>PhD in Economics</strong> | Harvard University | 2018 - 2024</dt>
-<dd>
-Primary fields: Macroeconomics and Econometrics
-</dd>
-<dd>
-Advisors: James H. Stock, Anna Mikusheva, Gabriel Chodorow-Reich
-</dd>
-</dl>
-<p><strong>MSc in Economics and Social Sciences</strong> | Bocconi University | 2015 - 2018</p>
-<p><strong>BA in Economics and Business</strong> | LUISS University | 2012 - 2015</p>
+<section id="working-papers" class="level2">
+<h2 class="anchored" data-anchor-id="working-papers">Working Papers</h2>
+<p><strong>Comovement of Economic Activity During the Covid Recession</strong> with James H. Stock and Mark W. Watson</p>
+<p><strong>Negative Control Identification of Monetary Policy</strong> (Job Market Paper)</p>
+<hr>
 </section>
-<section id="work-experience" class="level2">
-<h2 class="anchored" data-anchor-id="work-experience">Work Experience</h2>
-<dl>
-<dt><strong>Postdoctoral Researcher</strong> | Amazon, New York | 2024 - Present</dt>
-<dd>
-SCOT Topline Science Team
-</dd>
-<dd>
-Macroeconomic forecasting, causal analysis, state space modeling
-</dd>
-<dt><strong>Teaching Fellow &amp; Assistant</strong> | Harvard &amp; Bocconi | 2017 - 2023</dt>
-<dd>
-PhD-level econometrics, undergraduate macro and econometrics
-</dd>
-<dt><strong>Research Assistant</strong> | Harvard &amp; Bocconi | 2017 - 2020</dt>
-<dd>
-NBER working papers, fiscal policy research
-</dd>
-</dl>
+<section id="presentations" class="level2">
+<h2 class="anchored" data-anchor-id="presentations">Presentations</h2>
+<p><strong>Consumer Science Summit (CSS)</strong>, Amazon <em>Causal Macroeconomic Analysis in State Space Models</em></p>
+<hr>
 </section>
-<section id="technical-skills" class="level2">
-<h2 class="anchored" data-anchor-id="technical-skills">Technical Skills</h2>
-<p><strong>Programming</strong>: R, Python, Julia, MATLAB, SQL</p>
-<p><strong>Tools</strong>: PyTorch, Pyro, LLM APIs, Git, LaTeX</p>
-<p><strong>Methods</strong>: State space models, BVARs, SVARs, PCA, DiD, causal inference, GMM</p>
-</section>
-<section id="languages" class="level2">
-<h2 class="anchored" data-anchor-id="languages">Languages</h2>
-<p>Belarusian (Native) | Russian (Native) | English (Fluent) | Italian (Fluent) | French (Conversational)</p>
+<section id="research-interests" class="level2">
+<h2 class="anchored" data-anchor-id="research-interests">Research Interests</h2>
+<ul>
+<li>Macroeconomic forecasting</li>
+<li>Time series econometrics</li>
+<li>Causal inference</li>
+<li>State space models</li>
+<li>Bayesian and frequentist methods</li>
+</ul>
 
 
 </section>
@@ -273,7 +248,7 @@ NBER working papers, fiscal policy research
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/danilamaroz\.github\.io\/danilamaroz\.com\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
