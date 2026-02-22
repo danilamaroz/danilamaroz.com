@@ -1,0 +1,100 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV (PDF)"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nPhD in Economics | Harvard University | 2018 - 2024\n\nPrimary fields: Macroeconomics and Econometrics\n\n\nAdvisors: James H. Stock, Anna Mikusheva, Gabriel Chodorow-Reich\n\n\nMSc in Economics and Social Sciences | Bocconi University | 2015 - 2018\nBA in Economics and Business | LUISS University | 2012 - 2015"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "Work Experience",
+    "text": "Work Experience\n\nPostdoctoral Researcher | Amazon, New York | 2024 - Present\n\nSCOT Topline Science Team\n\n\nMacroeconomic forecasting, causal analysis, state space modeling\n\nTeaching Fellow & Assistant | Harvard & Bocconi | 2017 - 2023\n\nPhD-level econometrics, undergraduate macro and econometrics\n\nResearch Assistant | Harvard & Bocconi | 2017 - 2020\n\nNBER working papers, fiscal policy research"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nProgramming: R, Python, Julia, MATLAB, SQL\nTools: PyTorch, Pyro, LLM APIs, Git, LaTeX\nMethods: State space models, BVARs, SVARs, PCA, DiD, causal inference, GMM"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "Languages",
+    "text": "Languages\nBelarusian (Native) | Russian (Native) | English (Fluent) | Italian (Fluent) | French (Conversational)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Danila Maroz",
+    "section": "",
+    "text": "Postdoctoral Researcher Amazon, SCOT Topline Science Team New York, NY\n\n\n\n\nEmail | CV | Research\n\n\n\n\n\n\n\nI am a Postdoctoral Researcher at Amazon, developing macroeconomic forecasting models and conducting causal analysis using state space models for supply chain optimization.\n\n\nI received my PhD in Economics from Harvard University in 2024, specializing in Macroeconomics and Econometrics. My advisors were James H. Stock, Anna Mikusheva, and Gabriel Chodorow-Reich.\n\n\n\n\n\nMy research focuses on developing and applying econometric methods in macroeconomic contexts, particularly in data-rich environments. I work with:\n\n\n\nState space models (Bayesian and frequentist)\nCausal inference methods\nTime series econometrics\nMacroeconomic forecasting\n\n\n\n\n\n\nAt Amazon, my work includes:\n\n\n\nDevelopment of state space forecasting models for topline metrics\nCausal macroeconomic analysis (presented at Consumer Science Summit)\nPolicy analysis: tariffs, prices, and uncertainty effects\nAI-assisted research workflows\n\n\n\n\n\n\nPhD in Economics | Harvard University | 2024 MSc in Economics and Social Sciences | Bocconi University | 2018 BA in Economics and Business | LUISS University | 2015"
+  },
+  {
+    "objectID": "index.html#danila-maroz",
+    "href": "index.html#danila-maroz",
+    "title": "Danila Maroz",
+    "section": "",
+    "text": "Postdoctoral Researcher Amazon, SCOT Topline Science Team New York, NY"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Comovement of Economic Activity During the Covid Recession with James H. Stock and Mark W. Watson\nNegative Control Identification of Monetary Policy (Job Market Paper)"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Comovement of Economic Activity During the Covid Recession with James H. Stock and Mark W. Watson\nNegative Control Identification of Monetary Policy (Job Market Paper)"
+  },
+  {
+    "objectID": "research.html#presentations",
+    "href": "research.html#presentations",
+    "title": "Research",
+    "section": "Presentations",
+    "text": "Presentations\nConsumer Science Summit (CSS), Amazon Causal Macroeconomic Analysis in State Space Models"
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nMacroeconomic forecasting\nTime series econometrics\nCausal inference\nState space models\nBayesian and frequentist methods"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m an economist and researcher working at the intersection of macroeconomics, econometrics, and machine learning.\nBeyond research, I enjoy:\n\nChess - strong amateur player\nTennis - NTRP 3.5 level\nKitesurfing & Waterskiing - former professional athlete\nWriting - essays and prose"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About",
+    "section": "",
+    "text": "I’m an economist and researcher working at the intersection of macroeconomics, econometrics, and machine learning.\nBeyond research, I enjoy:\n\nChess - strong amateur player\nTennis - NTRP 3.5 level\nKitesurfing & Waterskiing - former professional athlete\nWriting - essays and prose"
+  },
+  {
+    "objectID": "about.html#about-this-site",
+    "href": "about.html#about-this-site",
+    "title": "About",
+    "section": "About This Site",
+    "text": "About This Site\nThis website is built with Quarto and hosted on GitHub Pages. The source code is available on GitHub."
+  }
+]
