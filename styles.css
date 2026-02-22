@@ -1,1 +1,30 @@
-/* css styles */
+/* Harvard Crimson Theme */
+
+/* Only specific headers - h2 for sections below */
+h2, h3 {
+  color: #A51C30;
+}
+
+/* Links */
+a {
+  color: #A51C30;
+}
+
+a:hover {
+  color: #8B1729;
+}
+
+/* Name styling */
+.crimson {
+  color: #A51C30;
+}
+
+/* Body text should be black */
+p, div {
+  color: #333333;
+}
+
+/* Strong/bold text should be black unless specified */
+strong {
+  color: #000000;
+}

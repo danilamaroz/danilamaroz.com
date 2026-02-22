@@ -39,28 +39,70 @@
     "href": "index.html",
     "title": "Danila Maroz",
     "section": "",
-    "text": "Postdoctoral Researcher Amazon, SCOT Topline Science Team New York, NY\n\n\n\n\nEmail | CV | Research\n\n\n\n\n\n\n\nI am a Postdoctoral Researcher at Amazon, developing macroeconomic forecasting models and conducting causal analysis using state space models for supply chain optimization.\n\n\nI received my PhD in Economics from Harvard University in 2024, specializing in Macroeconomics and Econometrics. My advisors were James H. Stock, Anna Mikusheva, and Gabriel Chodorow-Reich.\n\n\n\n\n\nMy research focuses on developing and applying econometric methods in macroeconomic contexts, particularly in data-rich environments. I work with:\n\n\n\nState space models (Bayesian and frequentist)\nCausal inference methods\nTime series econometrics\nMacroeconomic forecasting\n\n\n\n\n\n\nAt Amazon, my work includes:\n\n\n\nDevelopment of state space forecasting models for topline metrics\nCausal macroeconomic analysis (presented at Consumer Science Summit)\nPolicy analysis: tariffs, prices, and uncertainty effects\nAI-assisted research workflows\n\n\n\n\n\n\nPhD in Economics | Harvard University | 2024 MSc in Economics and Social Sciences | Bocconi University | 2018 BA in Economics and Business | LUISS University | 2015"
+    "text": "Postdoctoral Researcher | Amazon | New York, NY\nDeveloping macroeconomic forecasting models and conducting causal inference research using state space methods and time series econometrics.\nCV | Research Email: danila dot maroz at gmail dot com\nPhD in Economics | Harvard University | 2024 MSc in Economics | Bocconi University | 2018 BA in Economics | LUISS University | 2015\nI received my PhD in Economics from Harvard University in 2024, specializing in Macroeconomics and Econometrics. My advisors were James H. Stock, Anna Mikusheva, and Gabriel Chodorow-Reich."
   },
   {
     "objectID": "index.html#danila-maroz",
     "href": "index.html#danila-maroz",
     "title": "Danila Maroz",
     "section": "",
-    "text": "Postdoctoral Researcher Amazon, SCOT Topline Science Team New York, NY"
+    "text": "Postdoctoral Researcher | Amazon | New York, NY\nDeveloping macroeconomic forecasting models and conducting causal inference research using state space methods and time series econometrics.\nCV | Research Email: danila dot maroz at gmail dot com\nPhD in Economics | Harvard University | 2024 MSc in Economics | Bocconi University | 2018 BA in Economics | LUISS University | 2015"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Danila Maroz",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research focuses on developing and applying econometric methods in macroeconomic contexts, particularly in data-rich environments. I work with:\n\nState space models (Bayesian and frequentist)\nCausal inference methods\nTime series econometrics\nMacroeconomic forecasting"
+  },
+  {
+    "objectID": "index.html#recent-work",
+    "href": "index.html#recent-work",
+    "title": "Danila Maroz",
+    "section": "Recent Work",
+    "text": "Recent Work\nComovement of Economic Activity During the Covid Recession (with James H. Stock and Mark W. Watson)\nNegative Control Identification of Monetary Policy (Job Market Paper)"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Econometric Methods for Applied Research Teaching Fellow for Prof. Will Dobbie, 2023\nTime Series Analysis Teaching Fellow for Prof. Anna Mikusheva, 2022\nAdvanced Topics in Econometrics Teaching Fellow for Prof. Bryan Graham, 2021\nPrinciples of Econometrics (core) Teaching Fellow for Prof. Elie Tamer, 2020\n\n\n\n\nIntroduction to Econometrics Teaching Fellow for Prof. Davide Pettenuzzo, 2022\nIntermediate Macroeconomics Teaching Fellow for Prof. Chris Foote, 2021, 2022\nEconomics of European Integration Teaching Fellow for Prof. Hans-Helmut Kotz, 2021"
+  },
+  {
+    "objectID": "teaching.html#harvard-university",
+    "href": "teaching.html#harvard-university",
+    "title": "Teaching",
+    "section": "",
+    "text": "Econometric Methods for Applied Research Teaching Fellow for Prof. Will Dobbie, 2023\nTime Series Analysis Teaching Fellow for Prof. Anna Mikusheva, 2022\nAdvanced Topics in Econometrics Teaching Fellow for Prof. Bryan Graham, 2021\nPrinciples of Econometrics (core) Teaching Fellow for Prof. Elie Tamer, 2020\n\n\n\n\nIntroduction to Econometrics Teaching Fellow for Prof. Davide Pettenuzzo, 2022\nIntermediate Macroeconomics Teaching Fellow for Prof. Chris Foote, 2021, 2022\nEconomics of European Integration Teaching Fellow for Prof. Hans-Helmut Kotz, 2021"
+  },
+  {
+    "objectID": "teaching.html#bocconi-university",
+    "href": "teaching.html#bocconi-university",
+    "title": "Teaching",
+    "section": "Bocconi University",
+    "text": "Bocconi University\nIntroductory Financial Econometrics Teaching Fellow for Prof. Carlo Favero, 2017"
+  },
+  {
+    "objectID": "teaching.html#teaching-interests",
+    "href": "teaching.html#teaching-interests",
+    "title": "Teaching",
+    "section": "Teaching Interests",
+    "text": "Teaching Interests\nMy teaching focuses on:\n\nApplied econometric methods\nTime series analysis\nCausal inference\nMacroeconomic theory\nEmpirical research methods"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Comovement of Economic Activity During the Covid Recession with James H. Stock and Mark W. Watson\nNegative Control Identification of Monetary Policy (Job Market Paper)"
+    "text": "Comovement of Economic Activity During the Covid Recession with James H. Stock and Mark W. Watson\nNegative Control Identification of Monetary Policy (Job Market Paper)\nThis research introduces a novel identification method for monetary policy analysis using the negative control approach. The method combines elements of conditional exogeneity and instrumental variables while avoiding traditional exogeneity assumptions. Rather than relying solely on exogeneity, it leverages “endogeneity as much as exogeneity” by focusing on the confounding mechanism itself.\nThe paper applies this approach to identify causal effects of market interest rates on macroeconomic outcomes using: - Macroeconomic news measures - Fed policy indicators - Two critical orthogonality restrictions\nThe empirical application benchmarked against prior IV-based research (Bauer and Swanson, 2023) suggests that improper use of additional observable variables may underestimate monetary policy’s actual impact on the economy."
   },
   {
     "objectID": "research.html#working-papers",
     "href": "research.html#working-papers",
     "title": "Research",
     "section": "",
-    "text": "Comovement of Economic Activity During the Covid Recession with James H. Stock and Mark W. Watson\nNegative Control Identification of Monetary Policy (Job Market Paper)"
+    "text": "Comovement of Economic Activity During the Covid Recession with James H. Stock and Mark W. Watson\nNegative Control Identification of Monetary Policy (Job Market Paper)\nThis research introduces a novel identification method for monetary policy analysis using the negative control approach. The method combines elements of conditional exogeneity and instrumental variables while avoiding traditional exogeneity assumptions. Rather than relying solely on exogeneity, it leverages “endogeneity as much as exogeneity” by focusing on the confounding mechanism itself.\nThe paper applies this approach to identify causal effects of market interest rates on macroeconomic outcomes using: - Macroeconomic news measures - Fed policy indicators - Two critical orthogonality restrictions\nThe empirical application benchmarked against prior IV-based research (Bauer and Swanson, 2023) suggests that improper use of additional observable variables may underestimate monetary policy’s actual impact on the economy."
   },
   {
     "objectID": "research.html#presentations",
@@ -81,14 +123,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I’m an economist and researcher working at the intersection of macroeconomics, econometrics, and machine learning.\nBeyond research, I enjoy:\n\nChess - strong amateur player\nTennis - NTRP 3.5 level\nKitesurfing & Waterskiing - former professional athlete\nWriting - essays and prose"
+    "text": "I’m an economist and researcher working at the intersection of macroeconomics and econometrics, with a focus on causal inference and forecasting in data-rich environments.\nI was born and raised in Belarus, studied in Italy (Rome and Milan), and completed my PhD at Harvard. I now work in New York, where I continue to explore how modern econometric methods can help us understand macroeconomic dynamics.\nBeyond research, I enjoy:\n\nChess - strong amateur player who enjoys both blitz and classical games\nTennis - NTRP 3.5 level, playing regularly in NYC\nKitesurfing & Waterskiing - former professional athlete with years of competitive experience\nWriting - essays and prose on economics, philosophy, and other topics\nLanguages - fluent in Belarusian, Russian, English, and Italian; conversational French"
   },
   {
     "objectID": "about.html#about-me",
     "href": "about.html#about-me",
     "title": "About",
     "section": "",
-    "text": "I’m an economist and researcher working at the intersection of macroeconomics, econometrics, and machine learning.\nBeyond research, I enjoy:\n\nChess - strong amateur player\nTennis - NTRP 3.5 level\nKitesurfing & Waterskiing - former professional athlete\nWriting - essays and prose"
+    "text": "I’m an economist and researcher working at the intersection of macroeconomics and econometrics, with a focus on causal inference and forecasting in data-rich environments.\nI was born and raised in Belarus, studied in Italy (Rome and Milan), and completed my PhD at Harvard. I now work in New York, where I continue to explore how modern econometric methods can help us understand macroeconomic dynamics.\nBeyond research, I enjoy:\n\nChess - strong amateur player who enjoys both blitz and classical games\nTennis - NTRP 3.5 level, playing regularly in NYC\nKitesurfing & Waterskiing - former professional athlete with years of competitive experience\nWriting - essays and prose on economics, philosophy, and other topics\nLanguages - fluent in Belarusian, Russian, English, and Italian; conversational French"
   },
   {
     "objectID": "about.html#about-this-site",
