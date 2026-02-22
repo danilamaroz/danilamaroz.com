@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+**Comovement of Economic Activity During the Covid Recession**
+with James H. Stock and Mark W. Watson
+
+**Negative Control Identification of Monetary Policy** (Job Market Paper)
+
+---
+
+## Presentations
+
+**Consumer Science Summit (CSS)**, Amazon
+*Causal Macroeconomic Analysis in State Space Models*
+
+---
+
+## Research Interests
+
+- Macroeconomic forecasting
+- Time series econometrics
+- Causal inference
+- State space models
+- Bayesian and frequentist methods

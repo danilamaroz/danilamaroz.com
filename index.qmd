@@ -1,0 +1,23 @@
+---
+title: "Danila Maroz"
+---
+
+## Postdoctoral Researcher, Amazon
+
+I am a Postdoctoral Researcher on the SCOT Topline Science Team at Amazon in New York, where I develop macroeconomic forecasting models and conduct causal analysis using state space models.
+
+I received my PhD in Economics from Harvard University in 2024, specializing in Macroeconomics and Econometrics. My research focuses on macroeconomic forecasting, causal inference, and time series analysis.
+
+### Current Work
+
+At Amazon, I work on:
+
+- Development of state space forecasting models for supply chain optimization
+- Causal macroeconomic analysis and policy evaluation
+- Ad-hoc macro analysis on tariffs, prices, and uncertainty effects
+- AI-assisted research workflows using LLM APIs
+
+### Contact
+
+- Email: [danila.maroz@gmail.com](mailto:danila.maroz@gmail.com)
+- Location: New York, NY
